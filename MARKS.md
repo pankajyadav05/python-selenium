@@ -7,9 +7,9 @@ The total marks for this assignment are 100, distributed across various aspects 
    - Implement tests using Selenium for Python for geolocation emulation.
    - The accuracy and coverage of test scenarios will be assessed.
 
-2. **Login Functionality Testing on OrangeHRM (20 Marks)**:
+2. **Login Functionality Testing on LambdaTest E-commerce (20 Marks)**:
 
-   - Automate the login process and error handling on the OrangeHRM demo site.
+   - Automate the login process and error handling on the LambdaTest Ecommerce demo site.
    - The quality and reliability of the tests will be evaluated.
 
 3. **Python Environment Setup (20 Marks)**:
